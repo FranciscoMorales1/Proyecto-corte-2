@@ -97,7 +97,7 @@ proyecto/
 ├── entrada.py          # Ejemplo de entrada
 ├── prueba1.py          # Caso 1: Funciones
 ├── prueba2.py          # Caso 2: Bucles
-├── prueba4.py          # Caso 4: Statements simples
+├── prueba3.py          # Caso 4: Statements simples
 └── salida*.txt         # Archivos de salida generados
 ```
 
